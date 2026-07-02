@@ -54,4 +54,4 @@ Git • GitHub • Flask • Streamlit • SQLite • ChromaDB • Ollama
 ## 📫 Connect With Me
 
 - 📧 Email: sarathpatti123@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/<your-linkedin>
+- 💼 LinkedIn: https://www.linkedin.com/in/sarath-patti/
