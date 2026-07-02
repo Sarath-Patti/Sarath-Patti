@@ -1,16 +1,31 @@
-## Hi there 👋
+Sarath-Patti
+-----------------------------------------------------
 
-<!--
-**Sarath-Patti/Sarath-Patti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Sarath
 
-Here are some ideas to get you started:
+M.Tech CSE @ NIT Rourkela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building intelligent software from systems to AI/ML
+
+🚀 Areas of Interest
+• Software Engineering
+• Systems Programming
+• Machine Learning
+• Generative AI
+
+💻 Tech Stack
+...
+
+📌 Currently Working On
+• MatLite
+• Explainable Cloud IDS
+
+-----------------------------------------------------
+
+Pinned Repositories
+⭐ MatLite
+⭐ Mini RTOS Simulator
+⭐ Cache Simulator
+⭐ Traffic Volume Prediction
+⭐ Explainable Cloud IDS
+⭐ RAG Chatbot
