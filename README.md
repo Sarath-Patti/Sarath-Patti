@@ -1,31 +1,57 @@
-Sarath-Patti
------------------------------------------------------
+# Hi there 👋, I'm Sarath Patti
 
-👋 Hi, I'm Sarath
+🎓 M.Tech Computer Science @ NIT Rourkela (2025–2027)
 
-M.Tech CSE @ NIT Rourkela
+> Building intelligent software from systems to AI/ML.
 
-Building intelligent software from systems to AI/ML
+---
 
-🚀 Areas of Interest
-• Software Engineering
-• Systems Programming
-• Machine Learning
-• Generative AI
+## 🚀 About Me
 
-💻 Tech Stack
-...
+I'm passionate about designing efficient software systems and applying Artificial Intelligence to solve real-world problems. My interests span Systems Programming, Computer Architecture, Machine Learning, NLP, and Explainable AI.
 
-📌 Currently Working On
-• MatLite
-• Explainable Cloud IDS
+---
 
------------------------------------------------------
+## 💻 Tech Stack
 
-Pinned Repositories
-⭐ MatLite
-⭐ Mini RTOS Simulator
-⭐ Cache Simulator
-⭐ Traffic Volume Prediction
-⭐ Explainable Cloud IDS
-⭐ RAG Chatbot
+### Languages
+C • C++ • Java • Python • SQL
+
+### Software Engineering
+Data Structures & Algorithms • Object-Oriented Programming • Software Design • SDLC • Debugging
+
+### Systems
+Operating Systems • Computer Architecture • Concurrency • Performance Analysis • Linux
+
+### AI / Machine Learning
+Machine Learning • NLP • Generative AI • Retrieval-Augmented Generation (RAG) • Explainable AI • Scikit-learn • Pandas • NumPy
+
+### Tools
+Git • GitHub • Flask • Streamlit • SQLite • ChromaDB • Ollama
+
+---
+
+## 🌱 Currently Working On
+
+- 🖥️ MatLite — A Mini MATLAB Interpreter in C++
+- ⚙️ Mini RTOS Simulator in C++
+- 🔒 Explainable Cloud Intrusion Detection using SHAP
+- 🤖 AI & Machine Learning Projects
+
+---
+
+## 🎯 Areas of Interest
+
+- Software Engineering
+- Systems Programming
+- Machine Learning Engineering
+- Artificial Intelligence
+- Computer Architecture
+- Explainable AI
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: sarathpatti123@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/<your-linkedin>
