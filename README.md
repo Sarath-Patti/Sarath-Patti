@@ -1,131 +1,153 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm **Sarath Patti**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hi, I'm Sarath Patti
 
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" width="370" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-🎓 **M.Tech in Computer Science** @ NIT Rourkela (2025–2027)
+### Software Engineer • Systems Programmer • AI Engineer
 
-💻 Software Engineer • Systems Programmer • AI/ML Engineer
+> **Engineering software from the hardware up to intelligent AI systems.**
 
-> *Building high-performance software systems and intelligent AI applications.*
-
----
-
-## 🚀 About Me
-
-* 🎓 Pursuing M.Tech in Computer Science at **NIT Rourkela**
-* 💡 Passionate about **Systems Programming, Embedded Systems, Software Engineering, and AI**
-* 🧠 Interested in **Machine Learning, Explainable AI, NLP, and RAG**
-* ⚡ Love building projects from scratch and understanding how systems work internally
-* 🌱 Currently exploring **Compiler Design, Operating Systems, Computer Architecture, and Embedded Software**
-* 🎯 Preparing for **Software Engineering & Embedded Software roles**
+🎓 M.Tech Computer Science @ **NIT Rourkela** (2025–2027)
 
 ---
 
-# 💻 Tech Stack
+# 🚀 About Me
 
-### Programming Languages
+I'm passionate about building software from first principles.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+Rather than only using frameworks, I enjoy understanding how software works internally—from memory management and operating systems to compilers and AI systems.
 
-### Software Engineering
+Currently preparing for Software Engineering, Systems Programming, Embedded Software, Firmware and AI Engineering roles.
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Software Design
-* SDLC
-* Debugging
-* Design Patterns
+---
 
-### Systems
+# 🛠 What I Build
 
-* Operating Systems
-* Computer Architecture
-* Linux
-* Concurrency
-* Synchronization
-* Performance Analysis
-* Memory Management
+🖥 Software Engineering
 
-### AI & Machine Learning
+⚙ Systems Programming
 
-* Machine Learning
-* Explainable AI (SHAP)
-* Natural Language Processing
-* Generative AI
-* Retrieval-Augmented Generation (RAG)
-* Scikit-learn
-* Pandas
-* NumPy
-* XGBoost
-* Random Forest
+💾 Operating Systems
 
-### Tools
+🧠 Artificial Intelligence
 
-Git • GitHub • Linux • VS Code • Flask • Streamlit • SQLite • ChromaDB • Ollama
+🤖 Machine Learning
+
+☁ Intelligent Applications
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🛠 **SysCore** | Linux Systems Programming Toolkit featuring processes, IPC, file systems, memory management, sockets and POSIX APIs | C |
+| ⚙ **Mini RTOS** | Real-Time Operating System implementing scheduling, synchronization, mutexes, semaphores and message queues | C++ |
+| 🖥 **MatLite** | MATLAB-inspired interpreter with Lexer, Parser, AST, Symbol Table and Expression Evaluation | C++ |
+| 💾 **Cache Hierarchy Simulator** | Configurable multi-level cache simulator supporting LRU/FIFO replacement policies | C++ |
+| 🤖 **RAG Chatbot** | Retrieval-Augmented Generation chatbot using ChromaDB and Ollama | Python |
+| 🔒 **Explainable Cloud IDS** | Explainable Intrusion Detection System using SHAP-guided XGBoost feature selection | Python |
+| 🚗 **Traffic Volume Prediction** | End-to-end Machine Learning pipeline with Streamlit dashboard | Python |
 
 ---
 
 # 🚧 Currently Building
 
-🖥️ **MatLite** — Mini MATLAB Interpreter in C++
+🛠 **SysCore** — Linux Systems Programming Toolkit
 
-⚙️ **Mini RTOS Simulator** — Cooperative Scheduler, Mutexes, Semaphores & Message Queues
-
-🤖 **RAG LLM Chatbot** — Retrieval-Augmented AI Assistant using ChromaDB
-
-🔒 **Explainable Cloud Intrusion Detection** using SHAP & XGBoost
-
-🧠 **Embedded Firmware Simulator** *(In Progress)*
+⚙ **Embedded Firmware Simulator**
 
 ---
 
-# 🌟 Featured Projects
+# 💻 Tech Stack
 
-### 🖥️ MatLite
+## Languages
 
-A lightweight MATLAB-like interpreter written in C++ supporting parsing, expression evaluation, variables, and mathematical operations.
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,sqlite"/>
 
-### ⚙️ Mini RTOS Simulator
-
-A simplified Real-Time Operating System implementing scheduling, synchronization primitives, and inter-task communication.
+</p>
 
 ---
 
-### 🤖 RAG LLM Chatbot
+## Systems
 
-An intelligent chatbot powered by Retrieval-Augmented Generation with semantic search using ChromaDB.
-
----
-
-### 📊 Explainable Intrusion Detection
-
-Machine Learning pipeline using XGBoost with SHAP explanations for interpretable cybersecurity predictions.
-
----
-
-### 💾 Cache Memory Simulator
-
-Configurable cache simulator supporting multiple replacement policies with detailed performance analysis.
+- Operating Systems
+- Linux Systems Programming
+- Computer Architecture
+- Concurrency
+- Multithreading
+- Synchronization
+- Memory Management
+- Performance Analysis
+- Socket Programming
 
 ---
 
-# 🎯 Areas of Interest
+## Software Engineering
 
-* Software Engineering
-* Embedded Systems
-* Systems Programming
-* Computer Architecture
-* Operating Systems
-* Machine Learning
-* Explainable AI
-* Generative AI
-* High Performance Computing
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Software Design
+- SDLC
+- Design Patterns
+- Unit Testing
+- Debugging
+
+---
+
+## AI & Machine Learning
+
+- Machine Learning
+- Explainable AI (SHAP)
+- NLP
+- Retrieval-Augmented Generation
+- Generative AI
+- XGBoost
+- Random Forest
+- Scikit-learn
+- Pandas
+- NumPy
+
+---
+
+## Tools
+
+Git • GitHub • Linux • VS Code • CMake • Flask • Streamlit • SQLite • ChromaDB • Ollama
+
+---
+
+# 📚 Currently Exploring
+
+- Linux Kernel Concepts
+- Embedded Software
+- Firmware Development
+- Compiler Design
+- High Performance Computing
+- Distributed Systems
+
+---
+
+# 🧭 Engineering Journey
+
+```text
+Computer Architecture
+          │
+          ▼
+Cache Hierarchy Simulator
+          │
+          ▼
+Mini RTOS
+          │
+          ▼
+SysCore
+          │
+          ▼
+MatLite
+          │
+          ▼
+AI Systems
+```
 
 ---
 
@@ -133,13 +155,16 @@ Configurable cache simulator supporting multiple replacement policies with detai
 
 <p align="center">
 
-  <img height="170" src="https://streak-stats.demolab.com?user=Sarath-Patti&theme=tokyonight&hide_border=true"/>
-</p>
 
+
+<img height="170" src="https://streak-stats.demolab.com?user=Sarath-Patti&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 📊 Contribution Graph
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -149,9 +174,23 @@ Configurable cache simulator supporting multiple replacement policies with detai
 
 ---
 
+# 🎯 Areas of Interest
+
+- Software Engineering
+- Systems Programming
+- Operating Systems
+- Embedded Systems
+- Computer Architecture
+- Firmware Development
+- Artificial Intelligence
+- Machine Learning
+- Explainable AI
+
+---
+
 # 📫 Connect With Me
 
-📧 **Email:** [sarathpatti123@gmail.com](mailto:sarathpatti123@gmail.com)
+📧 **Email:** sarathpatti123@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/sarath-patti/
 
@@ -161,6 +200,6 @@ Configurable cache simulator supporting multiple replacement policies with detai
 
 <p align="center">
 
-### *"Building software that is efficient, reliable, and intelligent."*
+### **"Build. Understand. Optimize. Repeat."**
 
 </p>
