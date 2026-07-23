@@ -135,14 +135,6 @@ AI Systems
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sarath-Patti&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarath-Patti&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img height="170em" src="https://streak-stats.demolab.com?user=Sarath-Patti&theme=tokyonight&hide_border=true"/>
 
 </p>
