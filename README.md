@@ -22,6 +22,7 @@ My recent work focuses on modern software engineering, systems programming, full
 
 | Project | Description | Tech |
 |----------|-------------|------|
+| 🧠 **CortexAI** | Enterprise AI workspace combining RAG, conversational AI, workflow orchestration, document intelligence, authentication, streaming, and AI observability | Python • FastAPI • React • PostgreSQL • ChromaDB • Ollama • Docker |
 | 🚀 **StreamHub** | Production-ready Content Intelligence Platform with explainable recommendations, search intelligence, analytics, collections, GraphQL APIs, and service-layer architecture | React • TypeScript • GraphQL • Express • PostgreSQL |
 | 🛠 **SysCore** | Linux Systems Programming toolkit implementing processes, IPC, sockets, file systems, shared memory, synchronization, and POSIX APIs | C |
 | ⚙ **MatLite** | MATLAB-inspired interpreter implementing Lexer, Parser, AST, Symbol Table, and Expression Evaluation | C++ |
@@ -134,9 +135,9 @@ AI Systems
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170em" src="https://streak-stats.demolab.com?user=Sarath-Patti&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.vercel.app/?user=Sarath-Patti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
