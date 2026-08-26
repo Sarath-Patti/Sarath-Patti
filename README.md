@@ -145,9 +145,9 @@ AI Systems
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarath-Patti&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/Sarath-Patti/Sarath-Patti/output/activity-graph.svg"
+       width="100%"
+       alt="GitHub Activity Graph"/>
 </p>
 
 ---
